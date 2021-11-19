@@ -15,6 +15,7 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <footer>https://github.com/BYUCS260/museum-bmar890.git</footer>
   </div>
 </div>
 </template>
